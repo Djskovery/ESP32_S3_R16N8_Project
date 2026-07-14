@@ -1,4 +1,4 @@
-**Lab_3: Preemptive Time-Slice Task Scheduling**
+# Preemptive Time-Slice Task Scheduling
 
 Lab_3 demonstrates a preemptive time-slice task scheduling simulation on the ESP32 S3 DevKit R16N8 board using FreeRTOS. This project creates and manages multiple concurrent tasks with different priorities and timing characteristics.
 
