@@ -2,6 +2,8 @@
 
 Radar_Mini is a real-time miniature radar visualization system running on an ESP32-S3 DevKit (R16N8). The system combines an HC-SR04 ultrasonic distance sensor, a servo motor for scanning, and an OLED display for visual output. Remote control and telemetry are provided via MQTT (CoreIoT/ThingsBoard). The firmware uses FreeRTOS to separate sensing, control, and display tasks.
 
+**Link:** [Video Demo](https://drive.google.com/file/d/1Ba4zcNPBuywA_vgiLq2Sp4g6C-CWikab/view?usp=sharing)
+
 ## Project Overview
 - Real-time radar-like visualization on a 128×64 OLED.
 - 180° sweeping using a servo; distance measurements taken per angle using HC-SR04.
